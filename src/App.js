@@ -7,8 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          I've changed the text here just to verify am I able to upload it or
-          not.
+          I've changed the text here just to verify am I able to deploy it or
+          not after making changes.
         </p>
         <a
           className="App-link"
